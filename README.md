@@ -42,7 +42,7 @@
 ## Tech Stack
 - Frontend : React.js, Tailwind CSS
 - Backend : Node.js
-- Database : MongoDB
+- Database : MongoDB.
 - Deployment : Netlify,Render
 
    
